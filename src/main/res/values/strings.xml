@@ -1,0 +1,49 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">QuanLySach</string>
+
+    <string name="login_title">Thư viện sách</string>
+    <string name="login_subtitle">Đăng nhập để tiếp tục</string>
+    <string name="username_label">Tên đăng nhập</string>
+    <string name="username_hint">Nhập tên đăng nhập</string>
+    <string name="password_label">Mật khẩu</string>
+    <string name="password_hint">••••••</string>
+    <string name="login_error">Sai tên đăng nhập hoặc mật khẩu</string>
+    <string name="login_button">Đăng nhập</string>
+    <string name="sample_account">Tài khoản mẫu: admin / 123456</string>
+
+    <string name="my_library_title">Thư viện của tôi</string>
+    <string name="stat_total">Tổng số sách</string>
+    <string name="stat_read">Đã đọc</string>
+    <string name="stat_unread">Chưa đọc xong</string>
+    <string name="book_list_title" tools:ignore="RepeatedWords">Danh sách sách</string>
+    <string name="book_click_hint">(nhấn vào một cuốn sách để xem chi tiết)</string>
+    <string name="add_book_button">+ Thêm sách</string>
+
+    <string name="author_prefix">Tác giả: %1$s</string>
+    <string name="status_reading">Đang đọc</string>
+    <string name="status_read">Đã đọc</string>
+    <string name="status_unread">Chưa đọc</string>
+    <string name="category_tech">Công nghệ</string>
+    <string name="category_life_skills">Kỹ năng sống</string>
+    <string name="category_literature">Văn học</string>
+
+    <string name="add_book_title">Thêm sách</string>
+    <string name="book_title_label">Tên sách</string>
+    <string name="book_title_hint">Ví dụ: Đắc nhân tâm</string>
+    <string name="author_label">Tác giả</string>
+    <string name="author_hint">Ví dụ: Dale Carnegie</string>
+    <string name="category_label">Thể loại</string>
+    <string name="reading_status_label">Tình trạng đọc</string>
+    <string name="rating_label">Đánh giá</string>
+    <string name="rating_format">%1$d/5 sao</string>
+    <string name="notes_label">Ghi chú</string>
+    <string name="notes_hint">Nhập ghi chú (nhiều dòng)…</string>
+    <string name="save_book">Lưu sách</string>
+    <string name="error_empty_title">Vui lòng nhập tên sách</string>
+    <string name="error_empty_author">Vui lòng nhập tên tác giả</string>
+
+    <string name="book_detail_title">Chi tiết sách</string>
+    <string name="mark_as_read">Đánh dấu đã đọc</string>
+    <string name="back_button">Quay lại</string>
+    <string name="delete_book">Xóa sách</string>
+</resources>
